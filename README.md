@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 📫 How to reach me **vardhanadheli1527@gmail.com**
-- 📫 How to reach me **https://www.linkedin.com/in/vardhanadheli)**
+- 📫 How to reach me **https://www.linkedin.com/in/vardhanadheli**
 
 
 <h3 align="left">Connect with me:</h3>
