@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vardhan Adheli</h1>
-<h3 align="center">I'm passionate about technology and enjoy learning new skills. I'm proficient in programming languages like Python, Java, and C++, and have experience in web development, data structures, and algorithms. I'm also interested in artificial intelligence and machine learning. I'm eager to apply my knowledge and skills to real-world problems and contribute to the field of computer science.</h3>
+<h3 align="center">I'm passionate about technology and enjoy learning new skills. I'm proficient in programming languages like Python, Java, and C++, and have experience in web development, data structures, and algorithms.  I'm eager to apply my knowledge and skills to real-world problems and contribute to the field of computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardhan1564&label=Profile%20views&color=0e75b6&style=flat" alt="vardhan1564" /> </p>
 
