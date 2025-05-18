@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardhan1564&label=Profile%20views&color=0e75b6&style=flat" alt="vardhan1564" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
 - 📫 How to reach me **vardhanadheli1527@gmail.com**
 - 📫 How to reach me **https://www.linkedin.com/in/vardhanadheli/**
