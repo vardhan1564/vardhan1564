@@ -26,7 +26,7 @@ I love building end-to-end web applications — from crafting clean, responsive 
 
 Currently levelling up in **Java Full Stack Development**, I enjoy bridging the gap between great design and powerful backend logic using **Spring Boot** and **React**. I believe in writing code that's not just functional — but clean, scalable, and meaningful.
 
-When I'm not coding, I'm sharpening my problem-solving skills on **LeetCode** or exploring new tech to stay ahead of the curve. Always learning. Always building. 🚀
+When I'm not coding, I'm sharpening my problem-solving skills and Developement  or exploring new tech to stay ahead of the curve. Always learning. Always building. 🚀
 
 ```yaml
 📍 Location   : Maharashtra, India
