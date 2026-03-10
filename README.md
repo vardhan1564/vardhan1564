@@ -21,61 +21,36 @@
 
 ## ◈ About Me
 
+I'm **Vardhan Adheli**, a passionate Full Stack Developer from **Maharashtra, India** 🇮🇳.
+I love building end-to-end web applications — from crafting clean, responsive UIs to designing robust backend systems.
+
+Currently levelling up in **Java Full Stack Development**, I enjoy bridging the gap between great design and powerful backend logic using **Spring Boot** and **React**. I believe in writing code that's not just functional — but clean, scalable, and meaningful.
+
+When I'm not coding, I'm sharpening my problem-solving skills on **LeetCode** or exploring new tech to stay ahead of the curve. Always learning. Always building. 🚀
+
 ```yaml
-name       : Vardhan Adheli
-location   : Maharashtra, India 🇮🇳
-focus      : Full Stack Development
-learning   : Java Full Stack · Spring Boot · React
-email      : vardhanadheli1527@gmail.com
-linkedin   : linkedin.com/in/vardhanadheli
-status     : Open to Opportunities 🟢
+📍 Location   : Maharashtra, India
+🎯 Focus      : Full Stack Development
+📚 Learning   : Spring Boot · React · System Design
+📧 Email      : vardhanadheli1527@gmail.com
+🔗 LinkedIn   : linkedin.com/in/vardhanadheli
+🟢 Status     : Open to Opportunities
 ```
 
 ---
 
 ## ◈ Tech Stack
 
-#### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-#### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-
----
-
-## ◈ GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vardhan1564&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan1564&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+### 🖥️ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
 
-</div>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vardhan1564&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-## ◈ Activity Graph
-
-<div align="center">
-
-[![Vardhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vardhan1564&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=github,vscode,idea,postman&theme=dark" />
 
 </div>
 
@@ -95,15 +70,6 @@ status     : Open to Opportunities 🟢
 ---
 
 <div align="center">
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vardhan1564/vardhan1564/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vardhan1564/vardhan1564/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vardhan1564/vardhan1564/output/github-snake.svg" />
-</picture>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer&animation=fadeIn" />
 
