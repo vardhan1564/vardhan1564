@@ -31,7 +31,7 @@ When I'm not coding, I'm sharpening my problem-solving skills and Developement  
 ```yaml
 📍 Location   : Maharashtra, India
 🎯 Focus      : Full Stack Development
-📚 Learning   : Spring Boot · React · System Design
+📚 Learning   : Spring Boot · React 
 📧 Email      : vardhanadheli1527@gmail.com
 🔗 LinkedIn   : linkedin.com/in/vardhanadheli
 🟢 Status     : Open to Opportunities
