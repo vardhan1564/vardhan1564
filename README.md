@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Vardhan%20Adheli&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Vardhan%20Adheli&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Exploring%20AI%2FML%20%26%20LLMs&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vardhan+Adheli+%F0%9F%91%8B;Java+Full+Stack+Developer+%E2%9C%85;Spring+Boot+%2B+React+%E2%9A%A1;Now+Exploring+Python+%26+AI%2FML+%F0%9F%A4%96;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vardhan+Adheli+%F0%9F%91%8B;Java+Full+Stack+Developer+%E2%9C%85;Spring+Boot+%2B+React+%E2%9A%A1;Exploring+Python%2C+ML%2C+RAG+%26+LLMs+%F0%9F%A4%96;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,9 +24,9 @@
 
 I'm **Vardhan Adheli**, a Full Stack Developer from **Maharashtra, India** 🇮🇳.
 
-I've completed my **Java Full Stack Development** journey ✅ — building end-to-end web apps with **Spring Boot** on the backend and **React** on the frontend, backed by **MySQL**.
+I've completed my **Java Full Stack Development** journey ✅ — building end-to-end web apps with **Spring Boot** on the backend, **React** on the frontend, and **SQL** databases underneath.
 
-Now I'm stepping into the world of **Python, Artificial Intelligence & Machine Learning** 🤖 — exploring how intelligent systems can make full stack applications smarter.
+Now I'm exploring **Python, Machine Learning (TensorFlow, PyTorch, OpenCV), RAG and Large Language Models** 🤖 — learning how to bring AI into real-world full stack applications.
 
 I believe in writing code that's clean, scalable and meaningful. Always learning. Always building. 🚀
 
@@ -34,12 +34,13 @@ I believe in writing code that's clean, scalable and meaningful. Always learning
 
 ```java
 public class VardhanAdheli {
-    String location   = "Maharashtra, India 🇮🇳";
-    String role       = "Java Full Stack Developer";
-    String[] mastered = {"Java", "Spring Boot", "React", "JavaScript", "MySQL"};
-    String[] exploring = {"Python", "Machine Learning", "Deep Learning", "AI"};
-    String email      = "vardhanadheli1527@gmail.com";
-    String status     = "🟢 Open to Opportunities";
+    String location    = "Maharashtra, India 🇮🇳";
+    String role        = "Java Full Stack Developer";
+    String[] skills    = {"Java", "Spring Boot", "React", "JavaScript", "HTML", "CSS", "SQL"};
+    String[] tools     = {"Maven", "Postman", "GitHub", "VS Code", "Eclipse", "Spring Tool Suite"};
+    String[] exploring = {"Python", "Machine Learning", "TensorFlow", "PyTorch", "OpenCV", "RAG", "LLMs"};
+    String email       = "vardhanadheli1527@gmail.com";
+    String status      = "🟢 Open to Opportunities";
 }
 ```
 
@@ -49,10 +50,10 @@ public class VardhanAdheli {
 
 | | Milestone | Status |
 |:-:|:--|:-:|
-| ☕ | **Java Full Stack Development** — Java · Spring Boot · React · MySQL | ![Completed](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
-| 🐍 | **Python Programming** — core Python, NumPy, Pandas | ![In Progress](https://img.shields.io/badge/-Exploring-58A6FF?style=flat-square) |
-| 🤖 | **AI / Machine Learning** — Scikit-learn, TensorFlow, PyTorch | ![In Progress](https://img.shields.io/badge/-Exploring-58A6FF?style=flat-square) |
-| 🧠 | **Integrating AI into Full Stack Apps** | ![Next](https://img.shields.io/badge/-Up%20Next-8957e5?style=flat-square) |
+| ☕ | **Java Full Stack Development** — Java · Spring Boot · React · SQL | ![Completed](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
+| 🐍 | **Python & Machine Learning** — TensorFlow · PyTorch · OpenCV | ![Exploring](https://img.shields.io/badge/-Exploring-58A6FF?style=flat-square) |
+| 🧠 | **LLMs & RAG** — building AI apps on top of language models | ![Exploring](https://img.shields.io/badge/-Exploring-58A6FF?style=flat-square) |
+| 🚀 | **AI-Powered Full Stack Apps** — Spring Boot + React + LLMs | ![Next](https://img.shields.io/badge/-Up%20Next-8957e5?style=flat-square) |
 
 ---
 
@@ -61,59 +62,33 @@ public class VardhanAdheli {
 <div align="center">
 
 ### 🖥️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-### 🤖 AI / ML <sub>(Exploring)</sub>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&theme=dark" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
-
-</div>
-
----
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vardhan1564&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan1564&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8" />
-
+### 🛠️ Tools & IDEs
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vardhan1564&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
+### 🤖 Exploring
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 <br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vardhan1564&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## ◈ Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vardhan1564&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8957E5?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-## ◈ Contribution Snake
+## ◈ GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vardhan1564/vardhan1564/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vardhan1564/vardhan1564/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/vardhan1564/vardhan1564/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vardhan1564&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan1564&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=6" />
 
 </div>
 
